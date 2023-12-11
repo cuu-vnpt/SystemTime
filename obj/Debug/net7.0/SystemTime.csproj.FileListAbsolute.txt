@@ -1,0 +1,15 @@
+/Users/macos/Desktop/SystemTime/bin/Debug/net7.0/SystemTime
+/Users/macos/Desktop/SystemTime/bin/Debug/net7.0/SystemTime.deps.json
+/Users/macos/Desktop/SystemTime/bin/Debug/net7.0/SystemTime.runtimeconfig.json
+/Users/macos/Desktop/SystemTime/bin/Debug/net7.0/SystemTime.dll
+/Users/macos/Desktop/SystemTime/bin/Debug/net7.0/SystemTime.pdb
+/Users/macos/Desktop/SystemTime/obj/Debug/net7.0/SystemTime.csproj.AssemblyReference.cache
+/Users/macos/Desktop/SystemTime/obj/Debug/net7.0/SystemTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/SystemTime/obj/Debug/net7.0/SystemTime.AssemblyInfoInputs.cache
+/Users/macos/Desktop/SystemTime/obj/Debug/net7.0/SystemTime.AssemblyInfo.cs
+/Users/macos/Desktop/SystemTime/obj/Debug/net7.0/SystemTime.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/SystemTime/obj/Debug/net7.0/SystemTime.dll
+/Users/macos/Desktop/SystemTime/obj/Debug/net7.0/refint/SystemTime.dll
+/Users/macos/Desktop/SystemTime/obj/Debug/net7.0/SystemTime.pdb
+/Users/macos/Desktop/SystemTime/obj/Debug/net7.0/SystemTime.genruntimeconfig.cache
+/Users/macos/Desktop/SystemTime/obj/Debug/net7.0/ref/SystemTime.dll
